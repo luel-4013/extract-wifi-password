@@ -1,0 +1,102 @@
+Wifi Name                      | Password
+--------------------------------------------
+iPhone                         | 123456wifi
+HomeSweetHome                  | losogon0
+Decoding Error Occured!!!
+TP-LINK_71A42E                 | kaleb6262
+Connectify-me                  | losogon0
+TIBE MOVIES and WI FI ZONE     | 0910860389
+Star Wars                      | BabyYoda&TheMandalorian
+itel it1408                    | 12345678127
+Dream Wifi                     | Letmein.1
+Dream Wifi 2                   | Pinu.123
+DAMAT HOTEL                    | enjoy@daamat
+Hzquel_WiFi                    | 12345678
+Ras Computers_5G               | rasabc112
+Postpaid                       | zxcvbnmm
+AndroidShare_8000              | e97dd9468a9e
+TP-LINK_M7350_320D77           | waesrdtf
+Masknight                      | 12345678
+Decoding Error Occured!!!
+Sabon Restaurant               | sabonR@2020
+OPPO A51f                      | 12345678
+Star Wars                      | skywalker
+Sol Internet Cafe 3rd Floor 346 | winn1532
+ETskylighthotel                | MSCA2019
+H                              | 123456789
+Lucy Wifi Movie & intenet      | luwfsawalk144
+AndroidShare_8872              | 8204d0080e01
+DESKTOP-61K7P5E 9627           | D6e503{9
+Mado Hotel Guest               | enjoy@MadoHotel
+Decoding Error Occured!!!
+B681-DCE4                      | AD97B718
+FREEDOM                        | ela09259190
+ZTE_H108N                      | 12345678
+Lucy Int. Wifi & Movie         | rasudatekif2048
+HUAWEI-E5372-22BA              | 6t368yya
+Addis Ababa Emmanuel           | 12345678
+NETGEAR                        | starwars
+uuinternet                     | a1b2c3d4
+DESKTOP-HVCU626 8084           | 123456789
+
+============================================
+Time Taken To Extract Information: 0:01:47.530642
+============================================
+
+Wifi Name                      | Password
+--------------------------------------------
+AB movies and wifi             | Belusent10
+Mask 5S                        | Mask2046
+HomeSweetHome                  | losogon0
+iPhone                         | 123456789
+gergesenon_Guest               | 87654321
+gergesenon                     | 95126647
+HUAWEI-E458                    | 01E7BHQ05DY
+AB Movies & wifi               | Samihiwot1010
+Ale                            | yaregal@2021
+TP-Link_27E2_5G                | 54280380
+TP-Link_27E2                   | 54280380
+Gergesenonn                    | 95126647
+DIR-825-5G-e958                | 95126647
+yiymda                         | tripolie
+Decoding Error Occured!!!
+TP-LINK_71A42E                 | kaleb6262
+Connectify-me                  | losogon0
+TIBE MOVIES and WI FI ZONE     | 0910860389
+Star Wars                      | BabyYoda&TheMandalorian
+itel it1408                    | 12345678127
+Dream Wifi                     | Letmein.1
+Dream Wifi 2                   | Pinu.123
+DAMAT HOTEL                    | enjoy@daamat
+Hzquel_WiFi                    | 12345678
+Ras Computers_5G               | rasabc112
+Postpaid                       | zxcvbnmm
+AndroidShare_8000              | e97dd9468a9e
+TP-LINK_M7350_320D77           | waesrdtf
+Masknight                      | 12345678
+Decoding Error Occured!!!
+Sabon Restaurant               | sabonR@2020
+OPPO A51f                      | 12345678
+Star Wars                      | skywalker
+Sol Internet Cafe 3rd Floor 346 | winn1532
+ETskylighthotel                | MSCA2019
+H                              | 123456789
+Lucy Wifi Movie & intenet      | luwfsawalk144
+AndroidShare_8872              | 8204d0080e01
+DESKTOP-61K7P5E 9627           | D6e503{9
+Mado Hotel Guest               | enjoy@MadoHotel
+Decoding Error Occured!!!
+B681-DCE4                      | AD97B718
+FREEDOM                        | ela09259190
+ZTE_H108N                      | 12345678
+Lucy Int. Wifi & Movie         | rasudatekif2048
+HUAWEI-E5372-22BA              | 6t368yya
+Addis Ababa Emmanuel           | 12345678
+NETGEAR                        | starwars
+uuinternet                     | a1b2c3d4
+DESKTOP-HVCU626 8084           | 123456789
+
+============================================
+Time Taken To Extract Information: 0:01:17.213792
+============================================
+

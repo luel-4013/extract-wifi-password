@@ -1,0 +1,138 @@
+Wifi Name                      | Password
+--------------------------------------------
+yiymda                        |  tripolie
+iPhone                        |  123456wifi
+HomeSweetHome                 |  losogon0
+maskk's iPhone                |  ENCODING ERROR
+TP-LINK_71A42E                |  kaleb6262
+Xender_AP237e                 |  
+Connectify-me                 |  losogon0
+Henon                         |  
+TIBE MOVIES and WI FI ZONE    |  0910860389
+Star Wars                     |  BabyYoda&TheMandalorian
+itel it1408                   |  12345678127
+Dream Wifi                    |  Letmein.1
+Dream Wifi 2                  |  Pinu.123
+DAMAT HOTEL                   |  enjoy@daamat
+LEGEND_LM200X_4               |  
+Hzquel_WiFi                   |  12345678
+Ras Computers_5G              |  rasabc112
+Xender_AP775c                 |  
+Postpaid                      |  zxcvbnmm
+AndroidShare_8000             |  e97dd9468a9e
+Living Room TV.v              |  
+TP-LINK_M7350_320D77          |  waesrdtf
+Masknight                     |  12345678
+Unity1                        |  
+dlink                         |  
+Unity 1st Floor               |  
+Unity 2nd Floor 2             |  
+Unity 2nd Floor               |  
+Unity 3rd Floor               |  
+Unity 4th Floor               |  
+Unity Ground 1                |  
+Loco5A                        |  ENCODING ERROR
+Sabon Restaurant              |  sabonR@2020
+Star Wars  2                  |  
+OPPO A51f                     |  12345678
+EnGenius1 -5G                 |  
+Star Wars                     |  skywalker
+Sodat Internet Cafe           |  
+Hanna WiFi                    |  
+Sol Internet Cafe 3rd Floor 346|  winn1532
+ETskylighthotel               |  MSCA2019
+H                             |  123456789
+Xender_APfadb                 |  
+Lucy Wifi Movie & intenet     |  luwfsawalk144
+AndroidShare_8872             |  8204d0080e01
+DESKTOP-61K7P5E 9627          |  D6e503{9
+Mado Hotel Guest              |  enjoy@MadoHotel
+Xender_APc02b                 |  
+Loco5A                        |  ENCODING ERROR
+B681-DCE4                     |  AD97B718
+FREEDOM                       |  ela09259190
+ZTE_H108N                     |  12345678
+SAHwalkin                     |  
+Lucy Int. Wifi & Movie        |  rasudatekif2048
+ZTE                           |  
+HUAWEI-E5372-22BA             |  6t368yya
+Zefmesh-Superwifi             |  
+Addis Ababa Emmanuel          |  12345678
+NETGEAR                       |  starwars
+EnGenius1-5G                  |  
+uuinternet                    |  a1b2c3d4
+DESKTOP-HVCU626 8084          |  123456789
+
+===================================================
+Time Taken To Extract Information: 0:01:06.400026
+===================================================
+
+Wifi Name                      | Password
+--------------------------------------------
+yiymda                        |  tripolie
+iPhone                        |  123456wifi
+HomeSweetHome                 |  losogon0
+maskk's iPhone                |  ENCODING ERROR
+TP-LINK_71A42E                |  kaleb6262
+Xender_AP237e                 |  
+Connectify-me                 |  losogon0
+Henon                         |  
+TIBE MOVIES and WI FI ZONE    |  0910860389
+Star Wars                     |  BabyYoda&TheMandalorian
+itel it1408                   |  12345678127
+Dream Wifi                    |  Letmein.1
+Dream Wifi 2                  |  Pinu.123
+DAMAT HOTEL                   |  enjoy@daamat
+LEGEND_LM200X_4               |  
+Hzquel_WiFi                   |  12345678
+Ras Computers_5G              |  rasabc112
+Xender_AP775c                 |  
+Postpaid                      |  zxcvbnmm
+AndroidShare_8000             |  e97dd9468a9e
+Living Room TV.v              |  
+TP-LINK_M7350_320D77          |  waesrdtf
+Masknight                     |  12345678
+Unity1                        |  
+dlink                         |  
+Unity 1st Floor               |  
+Unity 2nd Floor 2             |  
+Unity 2nd Floor               |  
+Unity 3rd Floor               |  
+Unity 4th Floor               |  
+Unity Ground 1                |  
+Loco5A                        |  ENCODING ERROR
+Sabon Restaurant              |  sabonR@2020
+Star Wars  2                  |  
+OPPO A51f                     |  12345678
+EnGenius1 -5G                 |  
+Star Wars                     |  skywalker
+Sodat Internet Cafe           |  
+Hanna WiFi                    |  
+Sol Internet Cafe 3rd Floor 346|  winn1532
+ETskylighthotel               |  MSCA2019
+H                             |  123456789
+Xender_APfadb                 |  
+Lucy Wifi Movie & intenet     |  luwfsawalk144
+AndroidShare_8872             |  8204d0080e01
+DESKTOP-61K7P5E 9627          |  D6e503{9
+Mado Hotel Guest              |  enjoy@MadoHotel
+Xender_APc02b                 |  
+Loco5A                        |  ENCODING ERROR
+B681-DCE4                     |  AD97B718
+FREEDOM                       |  ela09259190
+ZTE_H108N                     |  12345678
+SAHwalkin                     |  
+Lucy Int. Wifi & Movie        |  rasudatekif2048
+ZTE                           |  
+HUAWEI-E5372-22BA             |  6t368yya
+Zefmesh-Superwifi             |  
+Addis Ababa Emmanuel          |  12345678
+NETGEAR                       |  starwars
+EnGenius1-5G                  |  
+uuinternet                    |  a1b2c3d4
+DESKTOP-HVCU626 8084          |  123456789
+
+===================================================
+Time Taken To Extract Information: 0:01:21.365468
+===================================================
+
